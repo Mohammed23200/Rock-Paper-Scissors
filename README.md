@@ -35,7 +35,7 @@ A fun and interactive Rock-Paper-Scissors game built with Python as part of the 
 - [GitHub Repository](https://github.com/Mohammed23200/Rock-Paper-Scissors.git)
 - [My GitHub Profile](https://github.com/Mohammed23200)
 - [LinkedIn Profile](https://www.linkedin.com/in/mohammed-gamal-4012122b5/)
-- [LinkedIn Post](https://www.linkedin.com/posts/yourusername_activity-123456789)
+- [LinkedIn Post](https://www.linkedin.com/posts/mohammed-gamal-4012122b5_100daysofcode-python-programming-activity-7340013105776615424-hD7F?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEusCMEBlqA5l7VNDV6ynoKsXvO5Jq7ixNA)
 
 ## 📚 Learning Outcomes
 - Python input/output handling
